@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "node-cron": "^3.0.2",
+    "twilio": "^4.18.0"
+  },
+  "name": "loverdeclarer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaline/loverDeclarer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaline/loverDeclarer/issues"
+  },
+  "homepage": "https://github.com/kaline/loverDeclarer#readme",
+  "description": ""
+}
